@@ -1,0 +1,5 @@
+mssql:
+ host: localhost
+ user: sa
+ password: fisurk2016
+ db: db_food
